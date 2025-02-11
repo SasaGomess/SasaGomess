@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img align="right" height="185" src="https://cdn.discordapp.com/attachments/1116889337590714429/1338899559321178122/download.gif?ex=67acc2e2&is=67ab7162&hm=08a51b95298432f159d78089ee5291d540bf8fb48309d45b91f1f84eb92040ec&"  />
+<img align="right" height="140" src="https://cdn.discordapp.com/attachments/1116889337590714429/1338899559321178122/download.gif?ex=67acc2e2&is=67ab7162&hm=08a51b95298432f159d78089ee5291d540bf8fb48309d45b91f1f84eb92040ec&"  />
 
 ###
 
