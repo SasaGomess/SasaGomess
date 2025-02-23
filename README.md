@@ -37,13 +37,13 @@
 <img align="right" height="120" src="https://cdn.discordapp.com/attachments/1116889337590714429/1338899559321178122/download.gif?ex=67acc2e2&is=67ab7162&hm=08a51b95298432f159d78089ee5291d540bf8fb48309d45b91f1f84eb92040ec&"  />
 
 ###
-
+<div align="center">
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SasaGomess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SasaGomess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
     </div>
     
   <div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SasaGomess&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&order=2" height="150"  alt="languages graph" />
 </div>
-
+</div>
 ###
