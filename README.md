@@ -37,6 +37,7 @@
 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SasaGomess&layout=compact&bg_color=000&border_color=ff&title_color=ff78ac&text_color=ffff)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SasaGomess&theme=bear&background=000&border=ff78ac&dates=ff78ac)](https://git.io/streak-stats)
 
 
