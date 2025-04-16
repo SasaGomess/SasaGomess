@@ -1,16 +1,15 @@
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=900&size=22&pause=1000&color=FF65C1&width=435&lines=%E2%8B%85%CB%9A%E2%82%8A%E2%80%A7+%CB%9A+%E0%AD%A8%E0%AD%A7+Seja+Bem+vindo(a)++%CB%9A%E2%82%8A%E2%80%A7+%E0%AD%A8%E0%AD%A7+%E2%80%A7%E2%82%8A%CB%9A+%E2%8B%85;Meu+nome+%C3%A9+Sabrina+Gomes;Sou+desenvolvedora+Backend+Java!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=500&duration=4998&pause=1000&color=F767DC&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Sabrina+Gomes;Sou+desenvolvedora+Backend+Java!)](https://git.io/typing-svg)
-----
-<p align="left">Sou desenvolvedora de software, apaixonada por criar soluções inovadoras!<br><br>📚 Graduanda em Análise de Desenvolvimento de Sistemas, aonde estou aprimorando minhas habilidades em desenvolvimento de software.<br><br>💡Com foco em Back-end, estou desenvolvendo minhas habilidades em Java, Spring Boot e padrões de projeto.<br><br>🌱Aprimorando minhas habilidades em Java, MySql, Computação em nuvem, banco de dados Oracle.</p>
+#
 
-###
+<p align="center">Sou desenvolvedora de software, apaixonada por criar soluções inovadoras!<br><br>📚 Estudante de Análise de Desenvolvimento de Sistemas, aonde estou aprimorando minhas habilidades em desenvolvimento de software.<br><br>💡Com foco em Back-end, estou desenvolvendo minhas habilidades em Java, Spring Boot e padrões de projeto.<br><br>🌱Aprimorando minhas habilidades em Java, MySql, Computação em nuvem, banco de dados Oracle.</p>
 
-
-
-###
+</div>
 
 
-<h2>📌Tecnologias</h2>
+## 📌Tecnologias 
 
 ###
 
