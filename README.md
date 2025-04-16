@@ -33,13 +33,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SasaGomess)
 
 
-<h2>Linguagens utilizadas</h2>
+## Github Stats & linguagens
+<div style="text-align: center;" align="center">
+  
+![GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SasaGomess&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF2BD3FF&text_color=FFF&border_radius=3&border_color=FF2BD3FF&icon_color=FF00F6&theme=jolly)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SasaGomess&layout=compact&bg_color=000&border_color=FF2BD3FF&title_color=FF2BD3FF&text_color=FF2BD3FF)
 
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SasaGomess&layout=compact&bg_color=000&border_color=ff&title_color=ff78ac&text_color=ffff)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SasaGomess&theme=bear&background=000&border=ff78ac&dates=ff78ac)](https://git.io/streak-stats)
-
+</div>
 
 
 
