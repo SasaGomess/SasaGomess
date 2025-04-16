@@ -39,9 +39,13 @@
 ![GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SasaGomess&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF2BD3FF&text_color=FFF&border_radius=3&border_color=FF2BD3FF&icon_color=FF00F6&theme=jolly)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SasaGomess&layout=compact&bg_color=000&border_color=FF2BD3FF&title_color=FF2BD3FF&text_color=FF2BD3FF)
 
+───────────────────────────────────────────୨ৎ─────────────────────────────────────────
 </div>
+<div align="center">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SasaGomess/SasaGomess/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sasagomess/SasaGomess/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SasaGomess/SasaGomess/output/github-contribution-grid-snake.svg">
+</picture>
 
-
-
-###
 </div>
