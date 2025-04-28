@@ -9,7 +9,7 @@
       <p align="left">Sou desenvolvedora de software, apaixonada por criar soluções inovadoras!<br><br>📚 Estudante de Análise de Desenvolvimento de Sistemas, aonde estou aprimorando minhas habilidades em desenvolvimento de software.<br><br>💡    Com foco em Back-end, estou desenvolvendo minhas habilidades em Java, Spring Boot, Design Patterns e bancos de dados.<br><br>🌱Aprimorando minhas habilidades em Java, MySql, Computação em nuvem, banco de dados Oracle.</p>
 </td>
     <td>
-      <img align="right" alt="" height="240px" src="https://github.com/user-attachments/assets/f51ca61f-d9ac-43cc-bfba-403a347d05e3">
+      <img align="right" alt="" height="220px" src="https://github.com/user-attachments/assets/f51ca61f-d9ac-43cc-bfba-403a347d05e3">
   </td>
   </tr>
  </table>
