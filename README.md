@@ -27,9 +27,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-FF5FB5?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FF5FB5?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-FF5FB5?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF5FB5.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PL](https://img.shields.io/badge/PL%2FSQL-FF5FB5?style=for-the-badge&logo=oracle&logoColor=FF5FB5&labelColor=FFFFFF&color=FF5FB5)
 ![Git](https://img.shields.io/badge/GIT-FF5FB5?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-FF5FB5?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ###
 <h2>📥Redes Sociais</h2> 
