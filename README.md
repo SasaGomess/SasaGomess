@@ -32,10 +32,11 @@
 ![PL](https://img.shields.io/badge/PL%2FSQL-FF5FB5?style=for-the-badge&logo=oracle&logoColor=FF5FB5&labelColor=FFFFFF&color=FF5FB5)
 ![Git](https://img.shields.io/badge/GIT-FF5FB5?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-FF5FB5?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF5FB5?style=for-the-badge&logo=postman&logoColor=white)
 
 
 ###
-<h2>📥Redes Sociais</h2> 
+<h2>Vamos nos conectar!🌼</h2> 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-santos-gomes/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sabrina.gomess.dev@gmail.com) 
