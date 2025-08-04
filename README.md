@@ -50,7 +50,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SasaGomess&layout=compact&theme=ambient_gradient)
 
 
-───────────────────────────────────────────୨ৎ───────────────────────────────────────
+──────────────────────────୨ৎ────────────────────────────────
 </div>
 <div align="center">
 <picture align="center">
