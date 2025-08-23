@@ -42,7 +42,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-santos-gomes/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sabrina.gomess.dev@gmail.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SasaGomess)
+[![Instagram](https://img.shields.io/badge/Instagram-FF1Fe9?style=for-the-badge&logo=instagram&logoColor=black)](www.instagram.com/sasaa_dev/)
 
 
 ## Github Stats & linguagens
