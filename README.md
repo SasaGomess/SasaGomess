@@ -10,7 +10,7 @@
         <strong>Sou desenvolvedora de software, apaixonada por criar soluções inovadoras! ⭐</strong><br>
         <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="25" height="25" /> Estudante de Análise de Desenvolvimento de Sistemas, aonde estou             aprimorando minhas habilidades em desenvolvimento de software.<br>
         <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Orange%20Book.png" alt="Orange Book" width="25" height="25" /> Cursos paralelos: Proprofissão, Oracle Next One, Java Completo.<br> 
-        <br>💡Com foco em Back-end, estou desenvolvendo minhas habilidades em Banco de Dados, Spring-boot e APIs REST.<br><br>🌱Aprimorando minhas habilidades em Spring, NoSQL, Docker, OCI e PostgreSQL.<br>
+        <br>💡Com foco em Back-end, estou desenvolvendo minhas habilidades em Banco de Dados, Spring-boot e APIs REST.<br><br>🌱Aprimorando minhas habilidades em Spring, NoSQL, Docker, AWS e PostgreSQL.<br>
         <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> Meus Hobbies? Sou uma ilustradora, designer, amo games e moda!<br></p>
 </td>
     <td>
