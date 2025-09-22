@@ -60,10 +60,11 @@
 ──────────────────────────୨ৎ────────────────────────────────
 </div>
 <div align="center">
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SasaGomess/SasaGomess/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sasagomess/SasaGomess/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SasaGomess/SasaGomess/output/github-contribution-grid-snake.svg">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SasaGomess/SasaGomess/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SasaGomess/SasaGomess/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SasaGomess/SasaGomess/output/pacman-contribution-graph.svg" width="100%vw" >
 </picture>
 
 </div>
