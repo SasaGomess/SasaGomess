@@ -41,7 +41,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF5FB5?style=for-the-badge&logo=postman&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-FF5FB5?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-FF5FB5?style=for-the-badge&logo=react&logoColor=white)
-
+![Figma](https://img.shields.io/badge/Figma-FF5FB5?style=for-the-badge&logo=figma&logoColor=white)
 
 
 ###
