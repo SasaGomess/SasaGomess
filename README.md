@@ -8,11 +8,11 @@
     <td>
       <p align="left">
         <strong>Sou desenvolvedora de software, apaixonada por criar soluções inovadoras! ⭐</strong><br>
-        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="35" height="35" />
+        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="25" height="25" />
         Sou estudante de Análise de Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie, aonde aprimoro minhas habilidades em desenvolvimento de software.<br>
-        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Orange%20Book.png" alt="Orange Book" width="35" height="35" /> Meus cursos paralelos à faculdade são: Proprofissão, Oracle Next One e o Java Completo (DevSuperior).<br> 
+        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Orange%20Book.png" alt="Orange Book" width="25" height="25" /> Meus cursos paralelos à faculdade são: Proprofissão, Oracle Next One e o Java Completo (DevSuperior).<br> 
         <br>💡Com foco em Backend, desenvolvo minhas habilidades em Banco de Dados, Spring Boot e APIs REST.<br><br>🌱Atualmente aprimoro minhas habilidades nas seguintes tecnologias: Spring Boot, Bancos de Dados não relacionais, Docker, AWS e PostgreSQL.<br>
-        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="35" height="35" /> Meus Hobbies? Sou uma ilustradora, designer, amo games e moda!<br></p>
+        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> Meus Hobbies? Sou uma ilustradora, designer, amo games e moda!<br></p>
 </td>
     <td>
       <img align="right" alt="" height="220px" src="https://github.com/user-attachments/assets/f51ca61f-d9ac-43cc-bfba-403a347d05e3">
