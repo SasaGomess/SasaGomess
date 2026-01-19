@@ -52,14 +52,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-FF1Fe9?style=for-the-badge&logo=instagram&logoColor=black)](www.instagram.com/sasaa_dev/)
 
 
-<!-- ## Github Stats & linguagens
+## Github Stats & linguagens
 <div style="text-align: center;" align="center">
   
 ![GitHub](https://github-readme-stats.vercel.app/api?username=SasaGomess&show_icons=true&theme=ambient_gradient)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SasaGomess&layout=compact&theme=ambient_gradient) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SasaGomess&layout=compact&theme=ambient_gradient) 
 
-
-──────────────────────────୨ৎ────────────────────────────────
+─────────────────────────────────────୨ৎ─────────────────────────────────────
 </div>
 <div align="center">
   
