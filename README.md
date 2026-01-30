@@ -10,9 +10,9 @@
         <strong>Sou desenvolvedora de software, apaixonada por criar soluções inovadoras! ⭐</strong><br>
         <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="25" height="25" />
         Sou estudante de Análise de Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie, aonde aprimoro minhas habilidades em desenvolvimento de software.<br>
-        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Orange%20Book.png" alt="Orange Book" width="25" height="25" /> Meus cursos paralelos à faculdade são: Proprofissão, Oracle Next One e o Java Completo (DevSuperior).<br> 
-        <br>💡Com foco em Backend, desenvolvo minhas habilidades em Banco de Dados, Spring Boot e APIs REST.<br><br>🌱Atualmente aprimoro minhas habilidades nas seguintes tecnologias: Spring Boot, Bancos de Dados não relacionais, Docker, AWS e PostgreSQL.<br>
-        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> Meus Hobbies? Sou uma ilustradora, designer, amo games e moda!<br></p>
+        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Orange%20Book.png" alt="Orange Book" width="25" height="25" /> Um dos cursos principais que realizo e conclui paralelos à faculdade são: Proprofissão, Oracle Next Education em Backend Java e o Java Completo (DevSuperior).<br> 
+        <br>💡Com foco em Backend, desenvolvo minhas habilidades em Banco de Dados, Spring Boot e APIs REST.<br><br>🌱Atualmente aprimoro minhas habilidades nas seguintes tecnologias: Spring Boot, Docker, AWS, Bancos de Dados não relacionais e PostgreSQL.<br>
+        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> E os meus Hobbies? Sou uma ilustradora, designer, amo games, moda e mangás!<br></p>
 </td>
     <td>
       <img align="right" alt="" height="220px" src="https://github.com/user-attachments/assets/f51ca61f-d9ac-43cc-bfba-403a347d05e3">
@@ -28,6 +28,7 @@
 ###
 
 ![Java](https://img.shields.io/badge/java-FF5FB5.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.Js](https://img.shields.io/badge/Node.js-FF5FB5?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF5FB5?style=for-the-badge&logo=javaScript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-FF5FB5?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FF5FB5?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,6 +43,7 @@
 ![Spring](https://img.shields.io/badge/Spring-FF5FB5?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-FF5FB5?style=for-the-badge&logo=react&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF5FB5?style=for-the-badge&logo=figma&logoColor=white)
+
 
 
 ###
