@@ -9,9 +9,9 @@
       <p align="left">
         <strong>Sou desenvolvedora de software, apaixonada por criar soluções inovadoras! ⭐</strong><br>
         <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="25" height="25" />
-        Sou estudante de Análise de Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie, aonde aprimoro minhas habilidades em desenvolvimento de software.<br>
-        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Orange%20Book.png" alt="Orange Book" width="25" height="25" /> Um dos cursos principais que realizo e conclui paralelos à faculdade são: Proprofissão, Oracle Next Education em Backend Java e o Java Completo (DevSuperior).<br> 
-        <br>💡Com foco em Backend, desenvolvo minhas habilidades em Banco de Dados, Spring Boot e APIs REST.<br><br>🌱Atualmente aprimoro minhas habilidades nas seguintes tecnologias: Spring Boot, Docker, AWS, Bancos de Dados não relacionais e PostgreSQL.<br>
+        Sou estudante de Análise de Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie, aonde aprimoro minhas habilidades em engenharia de software.<br>
+        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Orange%20Book.png" alt="Orange Book" width="25" height="25" /> Um dos cursos principais que realizo e conclui paralelos à faculdade são: Proprofissão, Oracle Next Education em Backend Java<br> 
+        <br>💡Com foco em Backend, desenvolvo minhas habilidades em Banco de Dados, Node.js, JavaScript e APIs REST.<br><br>🌱Também aprimoro minhas habilidades nas seguintes tecnologias: Spring Boot, Docker, AWS, Bancos de Dados não relacionais e PostgreSQL.<br>
         <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> E os meus Hobbies? Sou uma ilustradora, designer, amo games, moda e mangás!<br></p>
 </td>
     <td>
@@ -23,28 +23,30 @@
 </div>
 
 
-## 📌Tecnologias 
+## 📌Tecnologias Principais 
 
 ###
 
-![Java](https://img.shields.io/badge/java-FF5FB5.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.Js](https://img.shields.io/badge/Node.js-FF5FB5?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-FF5FB5?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF5FB5?style=for-the-badge&logo=javaScript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-FF5FB5?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF5FB5?style=for-the-badge&logo=postman&logoColor=white)
+![Java](https://img.shields.io/badge/java-FF5FB5.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-FF5FB5?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-FF5FB5?style=for-the-badge&logo=spring&logoColor=white)
+
+---
+
 ![HTML5](https://img.shields.io/badge/HTML5-FF5FB5?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FF5FB5?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-FF5FB5?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-FF5FB5?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FF5FB5.svg?style=for-the-badge&logo=python&logoColor=white)
-![PL](https://img.shields.io/badge/PL%2FSQL-FF5FB5?style=for-the-badge&logo=oracle&logoColor=FF5FB5&labelColor=FFFFFF&color=FF5FB5)
 ![Git](https://img.shields.io/badge/GIT-FF5FB5?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-FF5FB5?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF5FB5?style=for-the-badge&logo=postman&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-FF5FB5?style=for-the-badge&logo=spring&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-FF5FB5?style=for-the-badge&logo=react&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF5FB5?style=for-the-badge&logo=figma&logoColor=white)
-
-
+![C++](https://img.shields.io/badge/C%2B%2B-FF5FB5?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PL](https://img.shields.io/badge/PL%2FSQL-FF5FB5?style=for-the-badge&logo=oracle&logoColor=FF5FB5&labelColor=FFFFFF&color=FF5FB5)
 
 ###
 <h2>📥Vamos nos conectar!</h2> 
