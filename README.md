@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=900&size=22&pause=1000&color=FF65C1&width=435&lines=%E2%8B%85%CB%9A%E2%82%8A%E2%80%A7+%CB%9A+%E0%AD%A8%E0%AD%A7+Seja+Bem+vindo(a)++%CB%9A%E2%82%8A%E2%80%A7+%E0%AD%A8%E0%AD%A7+%E2%80%A7%E2%82%8A%CB%9A+%E2%8B%85;Meu+nome+%C3%A9+Sabrina+Dos+Santos+Gomes;Sou+desenvolvedora+Backend!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=900&size=22&pause=1000&color=FF65C1&width=435&lines=%E2%8B%85%CB%9A%E2%82%8A%E2%80%A7+%CB%9A+%E0%AD%A8%E0%AD%A7+Seja+Bem+vindo(a)++%CB%9A%E2%82%8A%E2%80%A7+%E0%AD%A8%E0%AD%A7+%E2%80%A7%E2%82%8A%CB%9A+%E2%8B%85;Meu+nome+%C3%A9+Sabrina+Gomes;Sou+desenvolvedora+Backend!)](https://git.io/typing-svg)
 #
 <table>
   <tr>
