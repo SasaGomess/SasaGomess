@@ -1,7 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=900&size=22&pause=1000&color=FF65C1&width=435&lines=%E2%8B%85%CB%9A%E2%82%8A%E2%80%A7+%CB%9A+%E0%AD%A8%E0%AD%A7+Seja+Bem+vindo(a)++%CB%9A%E2%82%8A%E2%80%A7+%E0%AD%A8%E0%AD%A7+%E2%80%A7%E2%82%8A%CB%9A+%E2%8B%85;Meu+nome+%C3%A9+Sabrina+Gomes;Sou+desenvolvedora+Backend+Java!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=900&size=22&pause=1000&color=FF65C1&width=435&lines=%E2%8B%85%CB%9A%E2%82%8A%E2%80%A7+%CB%9A+%E0%AD%A8%E0%AD%A7+Seja+Bem+vindo(a)++%CB%9A%E2%82%8A%E2%80%A7+%E0%AD%A8%E0%AD%A7+%E2%80%A7%E2%82%8A%CB%9A+%E2%8B%85;Meu+nome+%C3%A9+Sabrina+Dos+Santos+Gomes;Sou+desenvolvedora+Backend!)](https://git.io/typing-svg)
 #
 <table>
   <tr>
@@ -23,9 +22,7 @@
 </div>
 
 
-## 📌Tecnologias Principais 
-
-###
+## 📌 Tecnologias Principais 
 
 ![Node.Js](https://img.shields.io/badge/Node.js-FF5FB5?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-FF5FB5?style=for-the-badge&logo=express&logoColor=white)
@@ -36,17 +33,16 @@
 ![Spring](https://img.shields.io/badge/Spring-FF5FB5?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
+## ⚙️ Outras Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-FF5FB5?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FF5FB5?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-FF5FB5?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FF5FB5.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-FF5FB5?style=for-the-badge&logo=git&logoColor=white)
-
 ![React](https://img.shields.io/badge/React-FF5FB5?style=for-the-badge&logo=react&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF5FB5?style=for-the-badge&logo=figma&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-FF5FB5?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PL](https://img.shields.io/badge/PL%2FSQL-FF5FB5?style=for-the-badge&logo=oracle&logoColor=FF5FB5&labelColor=FFFFFF&color=FF5FB5)
 
 ###
 <h2>📥Vamos nos conectar!</h2> 
