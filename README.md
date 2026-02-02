@@ -22,15 +22,15 @@
 </div>
 
 
-## 📌 Tecnologias Principais 
-
-![Node.Js](https://img.shields.io/badge/Node.js-FF5FB5?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-FF5FB5?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF5FB5?style=for-the-badge&logo=javaScript&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF5FB5?style=for-the-badge&logo=postman&logoColor=white)
-![Java](https://img.shields.io/badge/java-FF5FB5.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-FF5FB5?style=for-the-badge&logo=postgresql&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-FF5FB5?style=for-the-badge&logo=spring&logoColor=white)
+## 📌Principais Tecnologias
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffde59?style=for-the-badge&logo=javaScript&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff751f?style=for-the-badge&logo=postman&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Java](https://img.shields.io/badge/java-ffcd1b.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-7ed957?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
 ## ⚙️ Outras Tecnologias
@@ -52,11 +52,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-FF1Fe9?style=for-the-badge&logo=instagram&logoColor=black)](www.instagram.com/sasaa_dev/)
 
 
-## Github Stats & linguagens
+<!-- ## Github Stats & linguagens
 <div style="text-align: center;" align="center">
   
 ![GitHub](https://github-readme-stats.vercel.app/api?username=SasaGomess&show_icons=true&theme=ambient_gradient)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SasaGomess&layout=compact&theme=ambient_gradient) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SasaGomess&layout=compact&theme=ambient_gradient) -->
 
 ─────────────────────────────────────୨ৎ─────────────────────────────────────
 </div>
