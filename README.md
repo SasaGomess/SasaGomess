@@ -10,7 +10,7 @@
         <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="25" height="25" />
         Sou estudante de Análise de Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie, aonde aprimoro minhas habilidades em engenharia de software.<br>
         <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Orange%20Book.png" alt="Orange Book" width="25" height="25" /> Um dos cursos principais que realizo e conclui paralelos à faculdade são: Proprofissão, Oracle Next Education em Backend Java<br> 
-        <br>💡Com foco em Backend, desenvolvo minhas habilidades em Banco de Dados, Node.js, JavaScript e APIs REST.<br><br>🌱Também aprimoro minhas habilidades nas seguintes tecnologias: Spring Boot, Docker, AWS, Bancos de Dados não relacionais e PostgreSQL.<br>
+        <br>💡Com foco em Backend, desenvolvo minhas habilidades em Banco de Dados, Node.js, JavaScript e APIs REST.<br><br>🌱Também aprimoro minhas habilidades nas seguintes tecnologias: Spring Boot, Docker, AWS, Bancos de Dados NoSQL e PostgreSQL.<br>
         <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> E os meus Hobbies? Sou uma ilustradora, designer, amo games, moda e mangás!<br></p>
 </td>
     <td>
