@@ -51,11 +51,15 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sabrina.gomess.dev@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-FF1Fe9?style=for-the-badge&logo=instagram&logoColor=black)](www.instagram.com/sasaa_dev/)
 
+ 
 
-<!-- ## Github Stats & linguagens
+
+ ## 👩🏻‍💻 Github Streak & Contribuitions
 <div style="text-align: center;" align="center">
   
-![GitHub](https://github-readme-stats.vercel.app/api?username=SasaGomess&show_icons=true&theme=ambient_gradient)
+![](https://nirzak-streak-stats.vercel.app/?user=SasaGomess&theme=violet-dark&hide_border=true&date)
+  
+<!-- ![GitHub](https://github-readme-stats.vercel.app/api?username=SasaGomess&show_icons=true&theme=ambient_gradient)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SasaGomess&layout=compact&theme=ambient_gradient) -->
 
 ─────────────────────────────────────୨ৎ─────────────────────────────────────
