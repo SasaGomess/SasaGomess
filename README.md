@@ -26,11 +26,14 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffde59?style=for-the-badge&logo=javaScript&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-316192?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-58C4DC?style=for-the-badge&logo=react&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-ff751f?style=for-the-badge&logo=postman&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ffcd1b.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-7ed957?style=for-the-badge&logo=spring&logoColor=white)
+
 
 ---
 ## ⚙️ Outras Tecnologias
@@ -40,7 +43,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-FF5FB5?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FF5FB5.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-FF5FB5?style=for-the-badge&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/React-FF5FB5?style=for-the-badge&logo=react&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF5FB5?style=for-the-badge&logo=figma&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-FF5FB5?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
