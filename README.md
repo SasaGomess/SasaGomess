@@ -54,12 +54,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-FF1Fe9?style=for-the-badge&logo=instagram&logoColor=black)](www.instagram.com/sasaa_dev/)
 
  
+![](https://nirzak-streak-stats.vercel.app/?user=SasaGomess&theme=violet-dark&hide_border=true&date)
+
 
  ## 👩🏻‍💻 Github Streak & Contribuitions
 <div style="text-align: center;" align="center">
   
-![](https://nirzak-streak-stats.vercel.app/?user=SasaGomess&theme=violet-dark&hide_border=true&date)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=SasaGomess&theme=violet-dark&hide_border=true&border_radius=6.5&mode=weekly)](https://git.io/streak-stats)
 
 <!-- <p align="center">
   <img src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=SasaGomess&layout=compact&langs_count=15&hide_border=true&title_color=000&text_color=000&bg_color=FF5FB5"
