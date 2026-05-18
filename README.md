@@ -55,11 +55,18 @@
 
  
 
-
  ## 👩🏻‍💻 Github Streak & Contribuitions
 <div style="text-align: center;" align="center">
   
 ![](https://nirzak-streak-stats.vercel.app/?user=SasaGomess&theme=violet-dark&hide_border=true&date)
+
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=SasaGomess&layout=compact&langs_count=15&hide_border=true&title_color=000&text_color=000&bg_color=FF5FB5"
+       style="margin-top:20"
+       height="280px"
+       width="40%" />
+</p> -->
   
 <!-- ![GitHub](https://github-readme-stats.vercel.app/api?username=SasaGomess&show_icons=true&theme=ambient_gradient)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SasaGomess&layout=compact&theme=ambient_gradient) -->
