@@ -6,41 +6,38 @@
   <tr>
     <td>
       <p align="left">
-        <strong>Sou desenvolvedora de software, apaixonada por criar soluções inovadoras! ⭐</strong><br>
+        <strong>Sou desenvolvedora de software, apaixonada por criar soluções inovadoras!⭐</strong><br>
+        <br>🧡 Estagiária em Engenharia de Software no maior banco da América Latina. 
+        Trabalho com as principais tecnologias: Node.js, NestJs, AWS, MySQL e GenAI.<br>
         <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="25" height="25" />
-        Sou estudante de Análise de Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie, aonde aprimoro minhas habilidades em engenharia de software.<br>
-        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Orange%20Book.png" alt="Orange Book" width="25" height="25" /> Um dos cursos principais que realizo e conclui paralelos à faculdade são: Proprofissão, Oracle Next Education em Backend Java<br> 
-        <br>💡Com foco em Backend, desenvolvo minhas habilidades em Banco de Dados, Node.js, JavaScript e APIs REST.<br><br>🌱Também aprimoro minhas habilidades nas seguintes tecnologias: Spring Boot, Docker, AWS, Bancos de Dados NoSQL e PostgreSQL.<br>
-        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> E os meus Hobbies? Sou uma ilustradora, designer, amo games, moda e mangás!<br></p>
+        Sou estudante de Análise de Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie, aonde aprimoro minhas habilidades em engenharia de software.<br> 
+<br>🌱Tópicos de estudos atuais: boas práticas de Engenharia de Software, Infraestrutura, AWS e Terraform.<br>
+        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> E os meus Hobbies? Sou uma ilustradora, amo games, viajar, e ler mangás!<br></p>
 </td>
     <td>
-      <img align="right" alt="" height="220px" src="https://github.com/user-attachments/assets/f51ca61f-d9ac-43cc-bfba-403a347d05e3">
+      <img width="367" height="358" alt="; gif" src="https://github.com/user-attachments/assets/27eafb6b-d5e9-41d8-9dca-22b87d81b1fd" />
   </td>
+
   </tr>
  </table>
 </div>
 </div>
 
 
-## 📌Principais Tecnologias
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffde59?style=for-the-badge&logo=javaScript&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-316192?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-58C4DC?style=for-the-badge&logo=react&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-ff751f?style=for-the-badge&logo=postman&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Java](https://img.shields.io/badge/java-ffcd1b.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-7ed957?style=for-the-badge&logo=spring&logoColor=white)
-
-
----
-## ⚙️ Outras Tecnologias
-
+## 🌟 Tecnologias 
+![Node.js](https://img.shields.io/badge/Node.js-FF5FB5?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Nestjs](https://img.shields.io/badge/Nestjs-FF5FB5?style=for-the-badge&logo=nestjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF5FB5?style=for-the-badge&logo=javaScript&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-FF5FB5?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FF5FB5?style=for-the-badge&logo=mysql&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-FF5FB5?style=for-the-badge&logo=insomnia&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-FF5FB5?style=for-the-badge&logo=prisma&logoColor=white)
+![React](https://img.shields.io/badge/React-FF5FB5?style=for-the-badge&logo=react&logoColor=white)
+![Java](https://img.shields.io/badge/java-FF5FB5.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF5FB5?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-FF5FB5?style=for-the-badge&logo=spring&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FF5FB5?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FF5FB5?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-FF5FB5?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FF5FB5.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-FF5FB5?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF5FB5?style=for-the-badge&logo=figma&logoColor=white)
@@ -49,9 +46,8 @@
 ###
 <h2>📥Vamos nos conectar!</h2> 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-santos-gomes/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sabrina.gomess.dev@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-FF1Fe9?style=for-the-badge&logo=instagram&logoColor=black)](www.instagram.com/sasaa_dev/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-FF5FB5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-santos-gomes/)
+[![E-mail](https://img.shields.io/badge/-Email-FF5FB5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sabrina.gomess.dev@gmail.com) 
 
  
 ![](https://nirzak-streak-stats.vercel.app/?user=SasaGomess&theme=violet-dark&hide_border=true&date)
