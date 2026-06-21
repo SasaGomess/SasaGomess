@@ -10,7 +10,7 @@
         <br>🧡 Estagiária em Engenharia de Software no maior banco da América Latina. 
         Trabalho com as principais tecnologias: Node.js, NestJs, AWS, MySQL e GenAI.<br>
         <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="25" height="25" />
-        Sou estudante de Análise de Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie, aonde aprimoro minhas habilidades em engenharia de software.<br> 
+        Sou estudante de Análise de Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie e Ex-proana. Em minha formação atual aprimoro minhas habilidades em engenharia de software.<br> 
 <br>🌱Tópicos de estudos atuais: boas práticas de Engenharia de Software, Infraestrutura, AWS e Terraform.<br>
         <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> E os meus Hobbies? Sou uma ilustradora, amo games, viajar, e ler mangás!<br></p>
 </td>
