@@ -1,26 +1,26 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=900&size=22&pause=1000&color=FF65C1&width=435&lines=%E2%8B%85%CB%9A%E2%82%8A%E2%80%A7+%CB%9A+%E0%AD%A8%E0%AD%A7+Seja+Bem+vindo(a)++%CB%9A%E2%82%8A%E2%80%A7+%E0%AD%A8%E0%AD%A7+%E2%80%A7%E2%82%8A%CB%9A+%E2%8B%85;Meu+nome+%C3%A9+Sabrina+Gomes;Sou+desenvolvedora+Backend!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=900&size=22&pause=1000&color=FF65C1&width=435&lines=%E2%8B%85%CB%9A%E2%82%8A%E2%80%A7+%CB%9A+%E0%AD%A8%E0%AD%A7+Seja+Bem-vindo(a)++%CB%9A%E2%82%8A%E2%80%A7+%E0%AD%A8%E0%AD%A7+%E2%80%A7%E2%82%8A%CB%9A+%E2%8B%85;Meu+nome+%C3%A9+Sabrina+Gomes;Sou+desenvolvedora+de+Software!)](https://git.io/typing-svg) 
 #
-<table>
-  <tr>
-    <td>
-      <p align="left">
-        <strong>Sou desenvolvedora de software, apaixonada por criar soluções inovadoras!⭐</strong><br>
-        <br>🧡 Estagiária em Engenharia de Software no maior banco da América Latina. 
-        Trabalho com as principais tecnologias: Node.js, NestJs, AWS, MySQL e GenAI.<br>
-        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="25" height="25" />
-        Sou estudante de Análise de Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie e Ex-proana. Em minha formação atual aprimoro minhas habilidades em engenharia de software.<br> 
-<br>🌱Tópicos de estudos atuais: boas práticas de Engenharia de Software, Infraestrutura, AWS e Terraform.<br>
-        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> E os meus Hobbies? Sou uma ilustradora, amo games, viajar, e ler mangás!<br></p>
-</td>
-    <td>
-      <img width="367" height="358" alt="; gif" src="https://github.com/user-attachments/assets/27eafb6b-d5e9-41d8-9dca-22b87d81b1fd" />
-  </td>
-
-  </tr>
- </table>
-</div>
+  <table style>
+      <tr>
+        <td>
+            <p align="left">
+              <strong>Sou desenvolvedora de software, apaixonada por criar soluções inovadoras!⭐</strong><br>
+              <br>🧡 Estagiária em Engenharia de Software no maior banco da América Latina. 
+              Trabalho com as principais tecnologias: Node.js, NestJs, AWS, MySQL e GenAI.<br>
+              <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="25" height="25" />
+              Sou estudante de Análise de Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie e Ex-proana. Em minha formação atual aprimoro minhas habilidades em engenharia de software.<br> 
+              <br>🌱Tópicos de estudos atuais: boas práticas de Engenharia de Software, Infraestrutura, AWS e Terraform.<br>
+              <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> E os meus Hobbies? Sou uma ilustradora, amo games, viajar, e ler mangás!<br>
+            </p>
+          </td>
+          <td>
+            <img width="367" height="358" alt="; gif" src="https://github.com/user-attachments/assets/27eafb6b-d5e9-41d8-9dca-22b87d81b1fd" />
+          </td>
+        </tr>
+     </table>
+  </div>
 </div>
 
 
