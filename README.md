@@ -27,6 +27,9 @@
 ## 🌟 Tecnologias 
 ![Node.js](https://img.shields.io/badge/Node.js-FF5FB5?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Nestjs](https://img.shields.io/badge/Nestjs-FF5FB5?style=for-the-badge&logo=nestjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF5FB5?style=for-the-badge)
+![Datadog](https://img.shields.io/badge/Datadog-FF5FB5?style=for-the-badge&logo=datadog&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-FF5FB5?style=for-the-badge&logo=terraform&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF5FB5?style=for-the-badge&logo=javaScript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-FF5FB5?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-FF5FB5?style=for-the-badge&logo=mysql&logoColor=white)
